@@ -1,9 +1,9 @@
 ## 💫 About Me:
 Hey there! I'm Aditya Singh also known as 3L173 H4CK3R 1337 (Elite Hacker 1337), a self taught hacker, developer and a Red teamer. I'm founder of a Cyber Security company, DarkSid3 Security. I'm a part time bug hunter and found some severe bugs in different tech giants.<br><br>I specialise in Web application pentesting, cloud pentesting, network pentesting, malware analysis, Open Source Intelligence (OSINT), Binary exploitation, reverse engineering, and Assembly x6486 and low level programming.
 
+##                                                                                                                                                                        
 
 ## 🌐 Connect with Me:
-##-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="left">
 <a href="https://linkedin.com/in/imlegendadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imlegendadi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29259591/3l173-h4ck3r-1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29259591/3l173-h4ck3r-1337" height="30" width="40" /></a>

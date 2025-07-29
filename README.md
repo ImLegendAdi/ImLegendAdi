@@ -47,9 +47,7 @@
 [![](https://visitcount.itsvg.in/api?id=imlegendadi&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-##                                                                                                                                                                        
-
-
+<img align="right" height="150" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 ## 💰 Donate!
 <p><a href="https://www.buymeacoffee.com/ImLegendAdi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ImLegendAdi" /></a></p><br><br>

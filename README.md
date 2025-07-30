@@ -44,10 +44,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=imlegendadi&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
+
+<img align="right" height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 [![](https://visitcount.itsvg.in/api?id=imlegendadi&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
-<img align="right" height="150" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+<img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/dg3u7hq-c1a76bed-89de-4294-9621-bb4ec5928066.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGczdTdocS1jMWE3NmJlZC04OWRlLTQyOTQtOTYyMS1iYjRlYzU5MjgwNjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rYkG0BxIeofIeDrbwyDJge1i8l4MDCGA1ZxtoHva4nU" />
+
 
 ## 💰 Donate!
 <p><a href="https://www.buymeacoffee.com/ImLegendAdi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ImLegendAdi" /></a></p><br><br>

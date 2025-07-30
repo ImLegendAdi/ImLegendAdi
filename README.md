@@ -69,4 +69,4 @@
 
 
 ## 💰 Donate!
-<p><a href="https://www.buymeacoffee.com/ImLegendAdi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ImLegendAdi" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/imlegendadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ImLegendAdi" /></a></p><br><br>

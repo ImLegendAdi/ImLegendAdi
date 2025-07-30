@@ -57,6 +57,8 @@
 # </> Contribution
 <img align="right" height="150" src="https://darknetdiaries.com/imgs/wallpapers/Octopus%20Thumbnail.jpg" />
 
+<img align="right" height="150" src="https://darknetdiaries.com/imgs/wallpapers/Wallphones-thumbnail.jpg" />
+
 ![](https://github-contributor-stats.vercel.app/api?username=imlegendadi&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---

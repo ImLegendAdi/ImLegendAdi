@@ -45,9 +45,9 @@
 
 <img align="right" height="150" src="https://i.redd.it/jw0ab1qsoeme1.gif" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlegendadi&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <img align="right" height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlegendadi&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ##                                                                                                                                                                        

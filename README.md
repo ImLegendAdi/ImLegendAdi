@@ -40,12 +40,12 @@
 
 ##                                                                                                                                                                        
 
+<img align="right" height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+
 # </> Contribution
 ![](https://github-contributor-stats.vercel.app/api?username=imlegendadi&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-
-<img align="right" height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 [![](https://visitcount.itsvg.in/api?id=imlegendadi&icon=2&color=0)](https://visitcount.itsvg.in)
 
 

@@ -37,6 +37,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=imlegendadi&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=imlegendadi&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlegendadi&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="150" src="https://images.steamusercontent.com/ugc/950724071161957262/686767DFAF7DBA57D51135EFA680D7F1A9A2D254/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+<img align="right" height="150" src="https://freecomputeradvice.net/wp-content/uploads/2019/11/kali-preview-boot.gif" />
+<img align="right" height="150" src="https://i.redd.it/jw0ab1qsoeme1.gif" />
 <img align="right" height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
 
 

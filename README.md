@@ -38,9 +38,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=imlegendadi&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imlegendadi&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-##                                                                                                                                                                        
-
 <img align="right" height="100" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" />
+
+##                                                                                                                                                                        
 
 # </> Contribution
 ![](https://github-contributor-stats.vercel.app/api?username=imlegendadi&limit=5&theme=neon&combine_all_yearly_contributions=true)

@@ -2,7 +2,7 @@
 
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=imlegendadi.imlegendadi&" height="100" width="150" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=imlegendadi.imlegendadi&" height="80" width="120" />
 </div>
 
 # Hey there! ✌️ I'm Aditya Singh also known as 3L173 H4CK3R 1337 (Elite Hacker 1337)

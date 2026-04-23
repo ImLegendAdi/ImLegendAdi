@@ -11,7 +11,7 @@
 ##                                                                                                                                                                        
 
 # 🔗 Let's Connect
-<p align="left">
+<p align="centre">
 <a href="https://linkedin.com/in/imlegendadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imlegendadi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29259591/3l173-h4ck3r-1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29259591/3l173-h4ck3r-1337" height="30" width="40" /></a>
 <a href="https://fb.com/imlegendadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imlegendadi" height="30" width="40" /></a>
